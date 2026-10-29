@@ -6,15 +6,9 @@ An Android app that helps blind and low-vision users understand their surroundin
 
 ## Screenshots
 
-<p align="center">
-  <img src="docs/screenshots/scene-table-chairs.jpg" width="18%" alt="Scene mode detecting a dining table and three chairs, announcing the table at 10 o'clock">
-  <img src="docs/screenshots/scene-chair-plant.jpg" width="18%" alt="Scene mode detecting a folding chair and a potted plant">
-  <img src="docs/screenshots/read-wayfinding-sign.jpg" width="18%" alt="Read mode reading a 'Meeting Hall, Public Seating' wall sign">
-  <img src="docs/screenshots/read-smoking-sign.jpg" width="18%" alt="Read mode reading a 'Designated smoking area' sign word for word">
-  <img src="docs/screenshots/all-mode-cars.jpg" width="18%" alt="All mode detecting parked cars and announcing their clock positions">
-</p>
+![Six PathSense screenshots. Scene mode detecting a dining table and chairs, a chair and potted plant, and a potted plant at 0.98 confidence. Read mode reading a 'Meeting Hall, Public Seating' sign and a 'Designated smoking area' sign word for word. All mode detecting parked cars and announcing their clock positions.](docs/screenshots/overview.jpg)
 
-<p align="center"><em>Left to right: Scene mode (objects by clock position), Read mode (signs read aloud), All mode (outdoors). Click any image to enlarge.</em></p>
+<p align="center"><em>Click the image to enlarge.</em></p>
 
 ## Tech Stack
 
