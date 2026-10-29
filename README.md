@@ -4,10 +4,11 @@ An Android app that helps blind and low-vision users understand their surroundin
 
 ![Platform](https://img.shields.io/badge/platform-Android%208.0%2B-3DDC84) ![License](https://img.shields.io/badge/license-MIT-blue)
 
-## Demo
+## Screenshots
 
-<!-- TODO: add demo -->
-![Demo](docs/demo.gif)
+| Scene: objects by clock position | Scene: chair and plant | Read: wayfinding sign | Read: printed notice | All: detection outdoors |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="docs/screenshots/scene-table-chairs.jpg" width="160" alt="Scene mode detecting a dining table and three chairs, announcing the table at 10 o'clock"> | <img src="docs/screenshots/scene-chair-plant.jpg" width="160" alt="Scene mode detecting a folding chair and a potted plant"> | <img src="docs/screenshots/read-wayfinding-sign.jpg" width="160" alt="Read mode reading a 'Meeting Hall, Public Seating' wall sign"> | <img src="docs/screenshots/read-smoking-sign.jpg" width="160" alt="Read mode reading a 'Designated smoking area' sign word for word"> | <img src="docs/screenshots/all-mode-cars.jpg" width="160" alt="All mode detecting parked cars and announcing their clock positions"> |
 
 ## Tech Stack
 
